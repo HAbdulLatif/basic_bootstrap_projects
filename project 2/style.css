@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    color: white;
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.header{
+
+    width: 100%;
+    height: 60px;
+    background-color:rgba(0, 0, 0,1.5);
+    top: 0px;
+    position: fixed;
+    
+
+}
+.wraper-header{
+    /* background-color:gray;
+    height: 200px; */
+    width: 75%;   
+    margin: 0px auto;
+    
+}
+
+.logo-image{
+    height: 50px;
+    width: 150px;
+    padding: 5px 0px;
+    float: left;
+}
+.menu ul li {
+    list-style: none;
+    display: inline;
+    line-height: 1.5;
+    
+    /* background-color: red; */
+}
+.menu ul li a {
+    text-decoration: none; 
+    color: white;
+    padding: 18px;   
+}
+.menu ul {
+    float: right;
+    
+}
+.menu a:hover , .menu a.active {
+    background-color: rgb(30, 59, 77);
+}

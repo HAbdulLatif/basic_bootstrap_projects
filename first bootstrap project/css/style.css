@@ -1,0 +1,36 @@
+body{
+    font-family: 'Bangers', cursive;
+}
+.height
+{
+    height: 60vh;
+}
+.height-1{
+    height: 20vh;
+}
+/* @media screen and (min-width: 567px){
+
+body {
+        background-color: skyblue;
+}
+}
+
+@media screen and (min-width: 780px){
+
+    body {
+            background-color: rgb(69, 112, 129);
+    }
+}
+
+@media screen and (min-width: 992px){
+
+    body {
+            background-color: rgb(75, 207, 190);
+    }
+}
+@media screen and (min-width: 1200px){
+
+    body {
+            background-color: rgb(125, 92, 179);
+    }
+} */

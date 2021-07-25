@@ -1,0 +1,24 @@
+body{
+    font-family: 'Yellowtail', cursive;
+}
+
+.height{
+    min-height: 50vh;
+}
+.title-underline{
+    height: 5px;
+    width: 140px;
+    margin: 0 auto;
+}
+.height-80{
+    min-height: 100vh;
+}
+.about-picture{
+    background: url(../img/121.jpg) center/cover no-repeat fixed;
+
+}
+#filler,#progress{
+    background: linear-gradient(to right, rgba(87, 86, 86,.3),rgba(46, 42, 42, 0.7))
+                ,url(../img/245.jpg) center/cover no-repeat fixed;
+}
+
